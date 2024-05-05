@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README - Mario Jump</title>
+</head>
+<body>
+    <header>
+        <h1>README - Mario Jump</h1>
+    </header>
 
     <section id="descricao">
         <h2>Descrição do Projeto</h2>
@@ -36,3 +47,5 @@
         <h2>Contribuições</h2>
         <p>Contribuições são bem-vindas! Se você deseja contribuir com melhorias para o jogo Mario Jump, sinta-se à vontade para fazer um fork do repositório, implementar suas alterações e enviar uma solicitação de pull.</p>
     </section>
+</body>
+</html>

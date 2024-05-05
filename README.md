@@ -7,7 +7,7 @@
         <ul>
             <li>Controle do Mario: Pressione qualquer tecla para fazer o Mario pular e evitar os canos.</li>
             <li>Animações: O jogo apresenta animações para simular o movimento do Mario e dos canos.</li>
-            <li>Game Over: Quando o Mario colide com um cano, o jogo encerra e exibe a mensagem de "Game Over".</li>
+            <li>Game Over: Quando o Mario colide com um cano, o jogo encerra".</li>
         </ul>
         
 <h2>Estrutura do Projeto</h2>

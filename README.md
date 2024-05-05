@@ -1,4 +1,4 @@
-<h1>README - Mario Jump</h1>
+<h1>Mario Jump</h1>
 
  <h2>Descrição do Projeto</h2>
     Mario Jump é um jogo simples desenvolvido em HTML, CSS e JavaScript, inspirado no clássico personagem de videogame Mario. O jogo consiste em controlar o Mario para evitar colidir com os canos que surgem no cenário, simulando um pulo para evitar obstáculos.
